@@ -9,6 +9,6 @@ Lighting conditions – shadows or glare can distort fingerprint images
 
 Finger positioning – rotation or shifting of the finger may affect matching results
 
-Ridge clarity – smudges, dryness, or excessive pressure can reduce accuracy
+Ridge clarity – smudges, dryness or lack of ridge definition can reduce accuracy
 
 By considering these limitations, this project demonstrates both the potential and challenges of fingerprint-based biometric systems.
